@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+body{
+	background-color:white;
+	
+}
+td{
+	border: 2px solid black;
+	font-family: Verdana;
+	background-color: white;
+	margin: auto;
+	color: black;
+	text-align: center;
+	
+	
+}
+h1{
+	font-size: 50px;
+color: black;
+}
